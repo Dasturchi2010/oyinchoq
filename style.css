@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+body {
+    background-color: #F8F8F8;
+}
+
+/* header start */
+header {
+    width: 100%;
+    height: 100vh;
+    background: url('image/IMAGEbg.png')no-repeat center center / cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header .title {
+    padding: 20px;
+    border-radius: 16px;
+    background: #FFFFFF;
+    text-align: center;
+}
+
+header .title p {
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #A5C926;
+}
+
+header .title h1 {
+    font-family: Varela Round;
+    font-size: 39px;
+    font-weight: 400;
+    line-height: 48px;
+    color: #111111;
+
+}
+
+header .title button {
+    font-family: Open Sans;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+    background-color: #A5C926;
+    border-radius: 24px;
+    border: none;
+
+
+
+
+}
+
+/* header end */
+
+section {
+    width: 100%;
+    padding: 30px 0;
+}
+
+section .mycard {
+    padding: 30px 20px;
+    box-shadow: 0px 1px 2px 0px #00000026;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    text-align: center;
+}
+
+section .mycard h4 {
+    font-family: Varela Round;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #111111;
+    margin: 15px 0;
+}
+
+section .mycard a {
+    padding: 10px 15px;
+    background-color: #A5C926;
+    border-radius: 16px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.line {
+    width: 70px;
+    height: 2px;
+    background: #A5C926;
+}
+
+/* article start */
+article {
+    padding: 50px;
+}
+
+article p {
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #A5C926;
+}
+
+article h2 {
+    font-family: Varela Round;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #111111;
+}
+
+article button {
+    font-family: Open Sans;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+    background-color: #A5C926;
+    border-radius: 24px;
+    border: none;
+}
+
+
+main .about {
+    padding: 100px;
+    width: 1440px;
+    height: 464px;
+    background: url('image/IMAGE20.png')no-repeat center center / cover;
+    text-align: center;
+}
+
+main .about p {
+    padding: 20px;
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+main .about h1 {
+    font-family: Varela Round;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+main .about img {
+    width: 64px;
+    height: 64px;
+    margin: auto;
+}
+
+.line {
+    width: 570px;
+    height: 188px;
+    border-radius: 16px;
+    background-color: rgb(255, 193, 44, 1);
+}
+
+.line h2 {
+    font-family: Varela Round;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.line button {
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
+
+.line img {
+    width: 220px;
+    height: 220px;
+    top: -58;
+    left: 15;
+}
+
+.line1 {
+    width: 570px;
+    height: 220px;
+    border-radius: 16px;
+    background-color: rgb(251, 65, 107, 1);
+}
+
+.line1 h2 {
+    font-family: Varela Round;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.line1 button{
+    font-family: Open Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
